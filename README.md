@@ -25,9 +25,7 @@ Built with HTML, CSS, JavaScript, and Web speech API (voice + speech) this proje
 
 ## Preview
 
-![QuickAid Screenshot](![image](https://github.com/user-attachments/assets/ba89d5f7-7d82-49c4-9c8e-126dca0a5d7b)
-)
-)
+![QuickAid Preview](preview.png)
 
 > “My friend got bit by a snake”  
 > QuickAid responds instantly with snakebite protocols.
