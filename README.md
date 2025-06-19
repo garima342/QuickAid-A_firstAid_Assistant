@@ -1,5 +1,4 @@
 # QuickAid-A_firstAid_Assistant
-# QuickAid – Your AI-Powered Emergency First Aid Assistant
 
 QuickAid is a modern, offline capable web assistant that delivers instant, accurate first-aid guidance based on user input. Designed for accessibility and reliability even without an internet connection it empowers users to act quickly and confidently in medical emergencies.
 
