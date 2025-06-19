@@ -1,7 +1,7 @@
 # QuickAid-A_firstAid_Assistant
 # QuickAid – Your AI-Powered Emergency First Aid Assistant
 
-QuickAid is a modern, offline-capable web assistant that delivers instant, accurate first-aid guidance based on user input. Designed for accessibility and reliability even without an internet connection it empowers users to act quickly and confidently in medical emergencies.
+QuickAid is a modern, offline capable web assistant that delivers instant, accurate first-aid guidance based on user input. Designed for accessibility and reliability even without an internet connection it empowers users to act quickly and confidently in medical emergencies.
 
 Built with HTML, CSS, JavaScript, and Web speech API (voice + speech) this project merges responsive UI, local data intelligence, and assistive technologies like speech recognition and text-to-speech.
 
@@ -25,10 +25,12 @@ Built with HTML, CSS, JavaScript, and Web speech API (voice + speech) this proje
 
 ## Preview
 
-![QuickAid Screenshot](preview.png)
+![QuickAid Screenshot](![image](https://github.com/user-attachments/assets/ba89d5f7-7d82-49c4-9c8e-126dca0a5d7b)
+)
+)
 
-> “My child has swallowed something!”  
-> → QuickAid responds instantly with choking protocol for children.
+> “My friend got bit by a snake”  
+> QuickAid responds instantly with snakebite protocols.
 
 ---
 
