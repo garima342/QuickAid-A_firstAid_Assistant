@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>QuickAid – AI Medical Assistant</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1><span class="material-icons">health_and_safety</span> QuickAid</h1>
+    <div id="output" class="fade-in"></div>
+    
+   
+    <div id="loader" class="hidden"></div>
+
+   
+    <textarea id="input" placeholder="Type or describe the emergency here..."></textarea>
+
+    <div class="buttons">
+      <button onclick="handleQuery()">
+        <span class="material-icons">send</span> Get Help
+      </button>
+      <button onclick="startListening()">
+        <span class="material-icons">mic</span>
+      </button>
+      <button onclick="stopSpeaking()">
+        <span class="material-icons">volume_off</span>
+      </button>
+      <button onclick="printResponse()">
+        <span class="material-icons">print</span>
+      </button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

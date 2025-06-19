@@ -1,0 +1,465 @@
+{
+  "burn": {
+    "keywords": ["burn", "scald", "hot", "fire"],
+    "steps": [
+      "Cool the burn with running water for 20 minutes.",
+      "Do not use ice, butter, or grease.",
+      "Cover loosely with a sterile bandage.",
+      "Seek medical attention if the burn is deep or large."
+    ]
+  },
+  "chest pain": {
+    "keywords": ["chest pain", "tight chest", "heart pain", "pressure in chest"],
+    "steps": [
+      "Call emergency services immediately.",
+      "Have the person sit down and rest.",
+      "Loosen any tight clothing.",
+      "Offer aspirin if the person is not allergic and fully conscious.",
+      "Monitor their breathing and prepare for CPR if needed."
+    ]
+  },
+  "choking": {
+    "keywords": ["choke", "choking", "can't breathe", "food stuck"],
+    "steps": [
+      "Ask if the person can cough or speak.",
+      "If not, give 5 back blows between the shoulder blades.",
+      "Then perform 5 abdominal thrusts (Heimlich maneuver).",
+      "Repeat until the object is expelled or help arrives."
+    ]
+  },
+  "fainting": {
+    "keywords": ["fainted", "lost consciousness", "passed out"],
+    "steps": [
+      "Lay the person flat on their back.",
+      "Elevate their legs slightly.",
+      "Loosen any tight clothing.",
+      "Check for breathing and responsiveness.",
+      "If unresponsive for over 1 minute, call emergency services."
+    ]
+  },
+  "bleeding": {
+    "keywords": ["bleeding", "cut", "gash", "laceration"],
+    "steps": [
+      "Apply direct pressure to the wound using a clean cloth.",
+      "Elevate the area if possible.",
+      "Keep pressure until bleeding stops.",
+      "Do not remove embedded objects—pad around them.",
+      "Seek help if bleeding doesn't stop or is severe."
+    ]
+  },
+  "seizure": {
+    "keywords": ["seizure", "fit", "convulsion"],
+    "steps": [
+      "Do not restrain the person.",
+      "Move nearby dangerous objects away.",
+      "Cushion their head with a soft item.",
+      "After the seizure, roll them onto their side.",
+      "Call emergency services if it lasts over 5 minutes or it's their first seizure."
+    ]
+  },
+  "allergic reaction": {
+    "keywords": ["allergy", "rash", "swelling", "anaphylaxis"],
+    "steps": [
+      "Use an epinephrine auto-injector immediately if available.",
+      "Call emergency services right away.",
+      "Keep the person lying flat with legs elevated.",
+      "Loosen tight clothing and monitor breathing.",
+      "Prepare to perform CPR if necessary."
+    ]
+  },
+  "asthma attack": {
+    "keywords": ["asthma", "wheezing", "short breath", "inhaler"],
+    "steps": [
+      "Help the person sit upright and stay calm.",
+      "Assist with inhaler use (usually 2 puffs).",
+      "Encourage slow, deep breaths.",
+      "Call emergency services if symptoms don’t improve."
+    ]
+  },
+  "stroke": {
+    "keywords": ["stroke", "facial droop", "slurred speech", "weak arm"],
+    "steps": [
+      "Use the FAST test (Face, Arms, Speech, Time).",
+      "Call emergency services immediately.",
+      "Note the time symptoms began.",
+      "Keep the person calm and seated upright.",
+      "Do not give them anything to eat or drink."
+    ]
+  },
+  "fracture": {
+    "keywords": ["fracture", "broken bone", "limb injury"],
+    "steps": [
+      "Immobilize the area using a splint or padding.",
+      "Avoid moving or realigning the bone.",
+      "Apply cold packs to reduce swelling.",
+      "Elevate if it doesn’t cause pain.",
+      "Seek professional medical care."
+    ]
+  }
+  ,
+  "nosebleed": {
+    "keywords": ["nosebleed", "bleeding nose", "nose blood"],
+    "steps": [
+      "Have the person sit upright and lean slightly forward.",
+      "Pinch the soft part of their nose for 10 minutes.",
+      "Apply a cold compress to the nose and cheeks.",
+      "If bleeding continues after 20 minutes, seek medical help."
+    ]
+  },
+  "heatstroke": {
+    "keywords": ["heatstroke", "heat exhaustion", "overheating"],
+    "steps": [
+      "Move the person to a shaded or cool area.",
+      "Remove excess clothing.",
+      "Cool their body using fans, wet towels, or ice packs.",
+      "Give sips of water only if they're fully conscious.",
+      "Call emergency services immediately."
+    ]
+  },
+  "hypothermia": {
+    "keywords": ["hypothermia", "freezing", "cold exposure"],
+    "steps": [
+      "Move the person indoors or to a warm environment.",
+      "Remove wet clothing and replace with warm blankets.",
+      "Warm the person gradually using body heat or warm drinks (if alert).",
+      "Avoid direct heat like hot water bottles or heating pads.",
+      "Call emergency services."
+    ]
+  },
+  "diabetic emergency": {
+    "keywords": ["diabetic", "low sugar", "high sugar", "hypoglycemia"],
+    "steps": [
+      "Check for medical ID or insulin.",
+      "If conscious and able to swallow, give sugary drinks or glucose tablets.",
+      "If unconscious, do not give anything by mouth.",
+      "Place in recovery position and call emergency services."
+    ]
+  },
+  "poisoning": {
+    "keywords": ["poison", "toxins", "swallowed chemicals"],
+    "steps": [
+      "Do not induce vomiting unless advised by poison control.",
+      "Call emergency services or a poison hotline.",
+      "Keep the container or label of the poison for identification.",
+      "Monitor the person's breathing and level of consciousness."
+    ]
+  },
+  "drowning": {
+    "keywords": ["drowning", "underwater", "water rescue"],
+    "steps": [
+      "Remove the person from water safely, if it's safe for you.",
+      "Check for breathing and pulse.",
+      "Begin CPR if not breathing and call emergency services.",
+      "Keep the person warm and reassured if conscious."
+    ]
+  },
+  "animal bite": {
+    "keywords": ["animal bite", "dog bite", "cat bite", "rabies"],
+    "steps": [
+      "Wash the bite area with soap and running water for 5 minutes.",
+      "Apply an antiseptic and cover with a clean bandage.",
+      "Seek medical evaluation for possible tetanus or rabies treatment.",
+      "Report the incident to local authorities if needed."
+    ]
+  },
+  "insect sting": {
+    "keywords": ["bee sting", "wasp sting", "insect bite"],
+    "steps": [
+      "Remove stinger if visible using a scraping motion.",
+      "Apply ice pack to reduce swelling and pain.",
+      "Give antihistamines if there’s itching or swelling.",
+      "Seek emergency help if signs of allergic reaction appear."
+    ]
+  },
+  "eye injury": {
+    "keywords": ["eye injury", "something in eye", "chemicals in eye"],
+    "steps": [
+      "Do not rub the eye.",
+      "Rinse gently with clean, lukewarm water.",
+      "Cover the eye with a sterile dressing without pressure.",
+      "Seek immediate medical attention."
+    ]
+  },
+  "sprain": {
+    "keywords": ["sprain", "twisted ankle", "strained wrist"],
+    "steps": [
+      "Follow the RICE method: Rest, Ice, Compression, Elevation.",
+      "Avoid using the injured area until pain and swelling reduce.",
+      "Apply cold compress for 15-20 minutes every few hours.",
+      "Seek care if there’s severe swelling or inability to move the joint."
+    ]
+  }
+  ,
+  "head injury": {
+    "keywords": ["head injury", "hit head", "concussion"],
+    "steps": [
+      "Keep the person still and calm.",
+      "Apply a cold pack to reduce swelling.",
+      "Check for signs of confusion, vomiting, or drowsiness.",
+      "Seek medical help for moderate or severe symptoms."
+    ]
+  },
+  "tooth knocked out": {
+    "keywords": ["tooth out", "knocked tooth", "dental injury"],
+    "steps": [
+      "Pick up the tooth by the crown (top), not the root.",
+      "Gently rinse with milk or saline if dirty—do not scrub.",
+      "Try to reinsert it into the socket if possible.",
+      "If not, keep it in milk or saliva and seek urgent dental care."
+    ]
+  },
+  "panic attack": {
+    "keywords": ["panic attack", "anxiety attack", "hyperventilating"],
+    "steps": [
+      "Guide the person to breathe slowly and deeply.",
+      "Encourage them to focus on steady inhaling and exhaling.",
+      "Stay calm and offer verbal reassurance.",
+      "Help them find a quiet space to rest and recover."
+    ]
+  },
+  "vomiting": {
+    "keywords": ["vomiting", "throwing up", "nausea"],
+    "steps": [
+      "Let the person rest and sip small amounts of clear fluids.",
+      "Avoid solid food until vomiting subsides.",
+      "Monitor for signs of dehydration or blood in vomit.",
+      "Seek care if vomiting persists over 24 hours."
+    ]
+  },
+  "diarrhea": {
+    "keywords": ["diarrhea", "loose motion", "watery stools"],
+    "steps": [
+      "Encourage fluid intake—water, oral rehydration solution.",
+      "Avoid dairy, spicy, or greasy foods.",
+      "Keep the person resting and hydrated.",
+      "Seek medical advice if diarrhea lasts more than 2 days."
+    ]
+  },
+  "eye irritation": {
+    "keywords": ["irritated eye", "red eye", "eye burn"],
+    "steps": [
+      "Avoid rubbing the eye.",
+      "Flush the eye with clean water for several minutes.",
+      "Remove any contacts carefully if worn.",
+      "Seek professional care if pain or redness persists."
+    ]
+  },
+  "abdominal pain": {
+    "keywords": ["stomach pain", "abdominal pain", "belly ache"],
+    "steps": [
+      "Have the person lie down in a comfortable position.",
+      "Apply a warm compress to the area.",
+      "Avoid giving food or medication unless advised.",
+      "Seek help if pain is severe or persistent."
+    ]
+  },
+  "shivering": {
+    "keywords": ["shivering", "chills", "cold sweats"],
+    "steps": [
+      "Move the person to a warm, dry area.",
+      "Wrap them in blankets and warm clothing.",
+      "Offer warm fluids if they’re alert.",
+      "Monitor temperature and check for fever or hypothermia."
+    ]
+  },
+  "bee sting": {
+    "keywords": ["bee sting", "hornet", "wasp sting"],
+    "steps": [
+      "Remove the stinger using a scraping motion.",
+      "Apply cold compress to reduce swelling.",
+      "Give antihistamine for itching or redness.",
+      "Watch for allergic reaction and call help if severe."
+    ]
+  },
+  "swollen ankle": {
+    "keywords": ["swollen ankle", "twisted ankle", "foot swelling"],
+    "steps": [
+      "Use RICE: Rest, Ice, Compression, Elevation.",
+      "Avoid bearing weight on the injured leg.",
+      "Wrap with an elastic bandage if available.",
+      "Seek evaluation if swelling or pain increases."
+    ]
+  }
+  ,
+  "palpitations": {
+    "keywords": ["palpitations", "racing heart", "irregular heartbeat"],
+    "steps": [
+      "Have the person sit or lie down calmly.",
+      "Encourage slow, deep breathing.",
+      "Avoid stimulants like caffeine if applicable.",
+      "Seek medical help if symptoms persist or worsen."
+    ]
+  },
+  "fever": {
+    "keywords": ["fever", "high temperature", "chills"],
+    "steps": [
+      "Keep the person hydrated with cool fluids.",
+      "Use a cold compress or sponge bath if fever is high.",
+      "Dress lightly and rest in a cool room.",
+      "Give fever-reducing meds only if advised."
+    ]
+  },
+  "low blood pressure": {
+    "keywords": ["low blood pressure", "hypotension", "dizziness"],
+    "steps": [
+      "Lay the person flat and elevate legs.",
+      "Offer water or electrolyte drinks if conscious.",
+      "Loosen tight clothing.",
+      "Seek care if fainting or confusion occurs."
+    ]
+  },
+  "snakebite": {
+    "keywords": ["snakebite", "venom", "bitten by snake"],
+    "steps": [
+      "Keep the person still and calm.",
+      "Immobilize the limb and keep it below heart level.",
+      "Do not cut or suck the wound.",
+      "Call emergency services immediately."
+    ]
+  },
+  "toxic inhalation": {
+    "keywords": ["inhaled gas", "toxic fumes", "chemical inhalation"],
+    "steps": [
+      "Move the person to fresh air immediately.",
+      "Loosen clothing and monitor breathing.",
+      "Call emergency services promptly.",
+      "Start CPR if the person is unconscious and not breathing."
+    ]
+  },
+  "blood in urine": {
+    "keywords": ["blood in urine", "hematuria", "red urine"],
+    "steps": [
+      "Keep the person calm and hydrated.",
+      "Avoid any further strain or exertion.",
+      "Document any pain, fever, or color changes.",
+      "Recommend prompt medical evaluation."
+    ]
+  },
+  "sudden vision loss": {
+    "keywords": ["vision loss", "blindness", "can't see"],
+    "steps": [
+      "Do not let the person drive or walk alone.",
+      "Keep them calm and sitting still.",
+      "Avoid rubbing or putting drops in the eye.",
+      "Call emergency services immediately."
+    ]
+  },
+  "baby not breathing": {
+    "keywords": ["baby not breathing", "infant unconscious"],
+    "steps": [
+      "Call emergency services right away.",
+      "Begin infant CPR: 30 gentle chest compressions, 2 breaths.",
+      "Ensure open airway and continue until help arrives.",
+      "Use two fingers for compressions, about 1.5 inches deep."
+    ]
+  },
+  "child choking": {
+    "keywords": ["child choking", "kid can't breathe"],
+    "steps": [
+      "If coughing, encourage continued coughing.",
+      "For infants: 5 back blows + 5 chest thrusts.",
+      "For children: 5 back blows + 5 abdominal thrusts.",
+      "Repeat as needed and call emergency services."
+    ]
+  },
+  "vomiting blood": {
+    "keywords": ["vomiting blood", "bloody vomit", "coffee ground vomit"],
+    "steps": [
+      "Have the person lie on their side.",
+      "Do not offer food or fluids.",
+      "Keep them calm and still.",
+      "Call emergency medical help immediately."
+    ]
+  },
+  "metal in wound": {
+    "keywords": ["metal wound", "stab wound", "metal injury"],
+    "steps": [
+      "Do not remove embedded object.",
+      "Stabilize the object with padding around it.",
+      "Control bleeding by applying pressure around—not on—the object.",
+      "Seek emergency medical care."
+    ]
+  },
+  "internal bleeding": {
+    "keywords": ["internal bleeding", "bruising", "bleeding inside"],
+    "steps": [
+      "Lay the person flat and elevate their legs slightly.",
+      "Keep them warm and still.",
+      "Do not give anything to eat or drink.",
+      "Call emergency services immediately."
+    ]
+  },
+  "suspicion of fracture": {
+    "keywords": ["possible fracture", "bone pain", "swollen limb"],
+    "steps": [
+      "Immobilize the suspected area with a splint.",
+      "Avoid moving or using the injured limb.",
+      "Apply cold compress to minimize swelling.",
+      "Seek X-ray or professional evaluation."
+    ]
+  },
+  "ear bleeding": {
+    "keywords": ["bleeding from ear", "ear injury", "ruptured eardrum"],
+    "steps": [
+      "Do not insert anything into the ear.",
+      "Gently dab with clean cloth if needed.",
+      "Keep the person upright and calm.",
+      "Seek prompt medical attention."
+    ]
+  },
+  "foreign object in eye": {
+    "keywords": ["something in eye", "eye particle", "dust in eye"],
+    "steps": [
+      "Do not rub the eye.",
+      "Rinse gently with saline or clean water.",
+      "Blink repeatedly to dislodge debris.",
+      "Seek care if discomfort persists or object is embedded."
+    ]
+  },
+  "back pain": {
+    "keywords": ["back pain", "strained back", "pulled back muscle"],
+    "steps": [
+      "Encourage the person to rest flat.",
+      "Apply an ice or heat pack to the area.",
+      "Avoid heavy lifting or twisting.",
+      "If pain is sharp or radiates, consult a doctor."
+    ]
+  },
+  "dry mouth and dizziness": {
+    "keywords": ["dry mouth", "dizzy", "lightheaded"],
+    "steps": [
+      "Have the person sit or lie down.",
+      "Offer small sips of water or electrolytes.",
+      "Check for signs of dehydration or low sugar.",
+      "Seek help if dizziness persists or worsens."
+    ]
+  },
+  "cramps": {
+    "keywords": ["cramp", "muscle spasm", "charley horse"],
+    "steps": [
+      "Stretch the affected muscle gently.",
+      "Massage the area to ease tension.",
+      "Apply warmth to relax tightness.",
+      "Hydrate and rest until cramp subsides."
+    ]
+  },
+  "collapsed person": {
+    "keywords": ["collapsed", "fallen unconscious", "unresponsive person"],
+    "steps": [
+      "Check for responsiveness and breathing.",
+      "Call emergency services immediately.",
+      "If not breathing, begin CPR.",
+      "Use an AED if available."
+    ]
+  },
+  "difficulty breathing": {
+    "keywords": ["can't breathe", "shortness of breath", "labored breathing"],
+    "steps": [
+      "Sit the person upright and reassure them.",
+      "Loosen tight clothing.",
+      "Assist with inhaler if they have one.",
+      "Call emergency help if symptoms worsen or persist."
+    ]
+  }
+}
+
